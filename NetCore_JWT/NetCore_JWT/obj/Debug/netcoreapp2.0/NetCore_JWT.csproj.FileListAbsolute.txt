@@ -1,0 +1,11 @@
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\bin\Debug\netcoreapp2.0\NetCore_JWT.deps.json
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\bin\Debug\netcoreapp2.0\NetCore_JWT.runtimeconfig.json
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\bin\Debug\netcoreapp2.0\NetCore_JWT.runtimeconfig.dev.json
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\bin\Debug\netcoreapp2.0\NetCore_JWT.dll
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\bin\Debug\netcoreapp2.0\NetCore_JWT.pdb
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.csprojAssemblyReference.cache
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.csproj.CoreCompileInputs.cache
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.AssemblyInfoInputs.cache
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.AssemblyInfo.cs
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.dll
+C:\Users\js\Documents\Visual Studio 2017\Projects\NetCore_JWT\NetCore_JWT\obj\Debug\netcoreapp2.0\NetCore_JWT.pdb
